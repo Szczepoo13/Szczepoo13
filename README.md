@@ -20,7 +20,7 @@ Building AI-powered smart contract security tooling, protocol infrastructure, an
 
 ## 📚 Publications
 
-### 📄 Scaling DeFi with ZK Rollups: Design, Deployment, and Evaluation of a Real-Time Proof-of-Concept (2025)
+### 📄 Scaling DeFi with ZK Rollups (2025)
 
 - [arXiv Preprint](https://arxiv.org/abs/2506.00500)
 - Presented at the **BCK24 Conference**, Zurich, Switzerland
@@ -54,6 +54,24 @@ Building AI-powered smart contract security tooling, protocol infrastructure, an
 - Project: **Decentralized Sports Betting Platform**
 - Led backend development, integrated **Chainlink Oracles** for real-time odds, and implemented end-to-end testing.
 
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • Rust • Solidity • TypeScript • JavaScript
+
+**Blockchain**
+
+Ethereum • Foundry • Hardhat • Chainlink • zkSync
+
+**AI**
+
+LLMs • AI Agents • RAG • MCP
+
+**Infrastructure**
+
+Docker • Kubernetes • PostgreSQL • Redis  • Grafana
 
 ## 📫 Contact
 -  [LinkedIn](https://www.linkedin.com/in/szczepan-gurgul-aaa106215/)
