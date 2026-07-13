@@ -63,7 +63,7 @@ Python • Rust • Solidity • TypeScript • JavaScript
 
 **Blockchain**
 
-Ethereum • Foundry • Hardhat • Chainlink • zkSync
+Ethereum • Foundry • Hardhat • Chainlink • DEX • AMMs • ZKPs • MEV • Trading bots 
 
 **AI**
 
