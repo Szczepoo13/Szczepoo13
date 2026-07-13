@@ -14,9 +14,10 @@ Building AI-powered smart contract security tooling, protocol infrastructure, an
 
 ## ⭐ Featured Projects
 
-- [AI Agents for MEV on Rollups]()
-- [zkSync TPS Benchmark]()
-- [Decentralized Sports Betting Platform]()
+- [AI Agents for MEV on Rollups](https://github.com/Szczepoo13/AI-Agents-for-MEV-on-Rollups)
+- [zkSync TPS Benchmark](https://github.com/Szczepoo13/zkSync-TPS-Benchmark)
+- [Decentralized Sports Betting Platform](https://github.com/Szczepoo13/Decentralized-Sports-Betting)
+- [Ethereum-Event-Indexer](https://github.com/Szczepoo13/Ethereum-Event-Indexer)
 
 ## 📚 Publications
 
