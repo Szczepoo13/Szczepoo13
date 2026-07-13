@@ -4,7 +4,7 @@ AI × Blockchain Security Engineer @ Nextrope
 
 MSc Computer Science (magna cum laude), University of Zurich
 
-Building AI-powered smart contract security tooling, protocol infrastructure, and AI agents for Ethereum.
+Building AI-powered smart contract security tooling, protocol infrastructure, and autonomous AI agents for Ethereum & DeFi.
 
 ## 🚀 Current Work
 
