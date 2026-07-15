@@ -6,7 +6,7 @@ MSc Computer Science (magna cum laude), **University of Zurich**
 
 Building AI-powered smart contract security tooling, protocol infrastructure, and autonomous AI agents for Ethereum & DeFi.
 
-[Visit my website](https://szczepoo13.github.io/mywebsite/)
+[Visit my website](https://sgurgul.dev/)
 
 ## 🚀 Current Work
 
